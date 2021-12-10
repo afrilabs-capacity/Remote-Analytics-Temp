@@ -1,0 +1,37 @@
+
+.table td, .table th {
+    padding: 1.1rem 0 1.1rem 6rem;
+    vertical-align: top;
+    border-top: 0 solid #f1f2f9;
+}
+
+
+.pricing-table table thead tr th {
+    border-left-width: 1px;
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: "Dosis", sans-serif;
+    vertical-align: middle;
+    padding-top: 5rem;
+    padding-bottom: 2.6rem;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+.table-bordered {
+    border: 0 solid #f1f2f9;
+}
+
+.table-light, .table-light>td, .table-light>th {
+    background-color: #fdfeff;
+}
+.table-bordered td, .table-bordered th {
+    border: 0 solid #f1f2f9;
+}
+
+

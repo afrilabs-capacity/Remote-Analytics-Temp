@@ -1,0 +1,15 @@
+.faq-box {
+    padding: 2rem;
+}
+
+.bg-success {
+    background-color: #e0f2f3!important;
+}
+.faq-box h4 {
+    font-weight: 600;
+}
+
+.faq-box p {
+    line-height: 2.2rem;
+    font-size: 1.2rem;
+}

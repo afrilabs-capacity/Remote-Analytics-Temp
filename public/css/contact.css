@@ -1,0 +1,94 @@
+.contact-area .contact-info .line.max-w {
+    border-color: #d6d6d6;
+    width: 24.5rem;
+}
+
+.custom-contact-us-section-ptb{
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+.mb-c-40{
+    margin-bottom: 4rem;
+}
+
+.contact-area .line-sm {
+    border-width: 2px;
+}
+
+.contact-area .contact-info .list-unstyled {
+    padding-top: 1.6rem;
+    padding-bottom: .5rem;
+}
+
+.contact-area .contact-info .line.max-w {
+    border-color: #d6d6d6;
+    width: 24.5rem;
+}
+
+.contact-area .contact-info .list-unstyled li {
+    line-height: 3.6rem;
+    font-size: 1.5rem;
+}
+.contact-area .contact-info .list-unstyled li span {
+    font-weight: 600;
+}
+
+@media (min-width: 992px){
+    .contact-area .contact-info {
+        margin-left: -3rem;
+    }
+}
+
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0 .8rem;
+    font-size: 1rem;
+    line-height: 3rem;
+    color: #66676a;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    border: 1px solid #f6f6f6;
+    border-radius: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    -webkit-transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    -o-transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+}
+
+
+
+a, .navbar a, .icon, .form-control {
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.form-control:focus {
+    color: #66676a;
+    background-color: #ffffff;
+    border-color: #32fdd1;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), none;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), none;
+}
+
+.form-control {
+    margin-bottom: 1.5rem;
+    -webkit-box-shadow: none !important;
+    box-shadow: none;
+}
+
+.mb-c-40b{
+    margin-bottom: 2rem;
+}
+
+.line-sm {
+    border-width: 2px;
+}
+
